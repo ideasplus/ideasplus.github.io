@@ -25,23 +25,18 @@ My current focus is on exploring the vulnerabilities of AI-powered autonomous dr
 
 
 # 🔥 News
-- *2022.09*: &nbsp;🎉🎉 Two papers are accepted by TrustCom 2023. 
+- *2023.09*: &nbsp;🎉🎉 Two papers are accepted by TrustCom 2023. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+**Shuai Li**, Yu Wen, Xu Cheng,
+"Towards Dynamic Backdoor Attacks against LiDAR Semantic Segmentation in Autonomous Driving" (**TrustCom'23**)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Shuai Li**, Yu Wen, Huiying Wang, Xu Cheng,
+"BadLiDet: A Simple Backdoor Attack against LiDAR Object Detection in Autonomous Driving" (**TrustCom'23**)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Yanfei Hu, **Shuai Li**, Shuailou Li, Boyang Zhang,
+"DAMUS: Adaptively Updating Hardware Performance Counter Based Malware Detector Under System Resource Competition" (**ISCC'23**)
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
