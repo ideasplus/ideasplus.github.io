@@ -24,15 +24,15 @@ I currently foucs on exploring the vulnerabilities of AI-powered autonomous driv
 
 **Shuai Li**, Yu Wen, Xu Cheng,
 "Towards Dynamic Backdoor Attacks against LiDAR Semantic Segmentation in Autonomous Driving" (**TrustCom'23**) 
-[[PDF]](({{site.url}}/assets/papers/BadLiSeg.pdf))
+[[PDF]]({{site.url}}/assets/papers/BadLiSeg.pdf)
 
 **Shuai Li**, Yu Wen, Huiying Wang, Xu Cheng,
 "BadLiDet: A Simple Backdoor Attack against LiDAR Object Detection in Autonomous Driving" (**TrustCom'23**) 
-[[PDF]](({{site.url}}/assets/papers/BadLiDet.pdf))
+[[PDF]]({{site.url}}/assets/papers/BadLiDet.pdf)
 
 Yanfei Hu, **Shuai Li**, Shuailou Li, Boyang Zhang,
 "DAMUS: Adaptively Updating Hardware Performance Counter Based Malware Detector Under System Resource Competition" (**ISCC'23**) 
-[[PDF]](({{site.url}}/assets/papers/DAMUS.pdf))
+[[PDF]]({{site.url}}/assets/papers/DAMUS.pdf)
 
 # 🎖 Honors and Awards
 - *2022.08* The First Place of Autonomous Driving CTF at DEF CON 30, hosted by Baidu Security & UC Irvine.
